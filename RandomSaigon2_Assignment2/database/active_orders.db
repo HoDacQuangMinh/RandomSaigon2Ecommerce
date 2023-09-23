@@ -1,0 +1,48 @@
+[
+    {
+        "products": [
+            {
+                "product_name": "PRODUCT 1",
+                "vendor": "Vendor1234",
+                "product_id": "1",
+                "product_price": "6789",
+                "product_description": "PRODUCT 1"
+            },
+            {
+                "product_name": "PRODUCT 2",
+                "vendor": "Vendor1234",
+                "product_id": "0",
+                "product_price": "12345",
+                "product_description": "PRODUCT 2"
+            }
+        ],
+        "order_id": 0,
+        "total_price": 19134,
+        "customer_address": "Customer Street 13",
+        "hub_name": "UPS Facility",
+        "status": "delivering"
+    },
+    {
+        "products": {
+            "0": {
+                "product_name": "PRODUCT 3",
+                "vendor": "Vendor1234",
+                "product_id": "3",
+                "product_price": "12345",
+                "product_description": "PRODUCT"
+            },
+            "2": {
+                "product_name": "PRODUCT T1",
+                "vendor": "Vendor12345",
+                "product_id": "0",
+                "product_price": "12345",
+                "product_description": "PRODUCT T1"
+            }
+        },
+        "order_id": 1,
+        "total_price": 24690,
+        "customer_address": "Customer Street 12",
+        "hub_name": "UPS Facility",
+        "status": "returning"
+    }
+]

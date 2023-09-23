@@ -1,0 +1,14 @@
+[
+    {
+        "distribution_hub": "FedEx Supply Chain North America (Exel)",
+        "hub_address": "Lmao 1234"
+    },
+    {
+        "distribution_hub": "UPS Facility",
+        "hub_address": "Joke 5678"
+    },
+    {
+        "distribution_hub": "Amazon Warehouse",
+        "hub_address": "XXX 1234"
+    }
+]

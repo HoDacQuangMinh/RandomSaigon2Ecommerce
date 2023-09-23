@@ -1,0 +1,42 @@
+/* RMIT University Vietnam
+  Course: COSC2430 Web Programming
+  Semester: 2023A
+  Assessment: Assignment 2
+  Author: Ho Dac Quang Minh
+  ID: s3893444
+  Acknowledgement:  student's sample
+                    https://validator.w3.org/
+                    https://jigsaw.w3.org/css-validator/ */
+body {
+    padding-bottom: 120px;
+}
+
+.hover-effect:hover {
+    color: black;
+    font-weight: bold;
+}
+
+.footer {
+    background-color: #460340;
+    overflow: hidden;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    table-layout: fixed;
+}
+
+.nav-link {
+    font-size: 25px;
+    color: rgb(255, 0, 191);
+    font-weight: 500;
+}
+
+.footer a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
