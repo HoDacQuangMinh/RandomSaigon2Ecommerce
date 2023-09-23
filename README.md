@@ -37,4 +37,6 @@ Video: I'm sorry that I could not record the website Demo because of the flu I g
 
 Github: https://github.com/HoDacQuangMinh/RandomSaigon2ecommerce
 
+doc: https://docs.google.com/document/d/1rfIrMtAVfn2aHqiRUSYZxcy83y4qdtRraeu0Dsj_oms/edit?usp=sharing
+
 
