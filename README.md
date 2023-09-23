@@ -13,8 +13,8 @@
 How to start website:
 Localhost
 - Download php
-- Open CMD and write "php -S localhost:1111" on the directory that contains index.php (use can change the port 1111 to whatever you want)
-- Open browser, type on URL bar: "localhost:1111/index.php"
+- Open CMD and write "php -S localhost:3000" on the directory that contains index.php (use can change the port 1111 to whatever you want)
+- Open browser, type on URL bar: "localhost:3000/index.php"
 
 Accounts to use:
 
