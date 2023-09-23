@@ -4,7 +4,7 @@
   Assessment: Assignment 2
   Author: Ho Dac Quang Minh
   ID: s3893444
-  Acknowledgement:  s3950664's sample
+  Acknowledgement:  student's sample
                     https://validator.w3.org/
                     https://jigsaw.w3.org/css-validator/ 
 
